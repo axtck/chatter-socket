@@ -1,3 +1,2 @@
-Chatter app
-
-add node modules, npm i socket.io and install nodemon.
+# Chatter
+***A chatting application with socket.io***
